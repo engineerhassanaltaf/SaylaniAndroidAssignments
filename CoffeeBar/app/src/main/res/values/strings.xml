@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coffee Bar</string>
+    <string name="name_hint">Name</string>
+    <string name="toppings_label">Toppings</string>
+    <string name="toppingsWC_label">Whipped Cream</string>
+    <string name="toppingsC_label">Chocolate</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="increment_button">+</string>
+    <string name="decrement_button">-</string>
+    <string name="orderSummary_label">Order Summary</string>
+    <string name="order_button">Order</string>
+    <string name="default_quantity">1</string>
+</resources>
